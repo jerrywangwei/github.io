@@ -18,7 +18,7 @@ sidebar-avatar: /img/images.jpg      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-github_username:    jerrywang
+github_username:    jerrywangwei
 
 
 # Build settings
@@ -57,9 +57,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 364233ce1631e3714312                            #生成的clientID
   clientSecret: 6accf13e23c7fd4ee50f7ce7d6af6a5484846745    #生成的clientSecret
-  repo: jerrywang.github.io    #仓库名称
-  owner: jerrywang    #github用户名
-  admin: jerrywang
+  repo: jerrywangwei.github.io    #仓库名称
+  owner: jerrywangwei    #github用户名
+  admin: jerrywangwei
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
