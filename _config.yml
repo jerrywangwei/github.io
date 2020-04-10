@@ -87,7 +87,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+#friends: [
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
