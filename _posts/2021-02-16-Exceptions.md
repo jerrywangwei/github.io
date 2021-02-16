@@ -2,7 +2,7 @@
 layout:     post
 title:      异常向量表
 date:       2021-02-16
-author:     WW
+author:     ww
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
